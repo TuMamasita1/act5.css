@@ -1,0 +1,100 @@
+:root{
+    --color-caste: #ff6363;
+    --color-mates: #63b6ff;
+    --color-valen: #ff9c66;
+    --color-ingles:#ff66b5;
+    --color-histo: #95ff66;
+    --color-reli:  #c166ff;
+    --color-iaee: #daff66;
+    --color-edfisica: #66ffea;
+    --color-artes: #ff6684;
+    --color-info: #66ff99;
+    --color-pati-complementos:#000000;
+    --color-tecno: #8fb4ce;
+    --color-tutoria: #ceb78f;
+    --color-horario: #ff92bf;
+}   
+
+.castellano{
+    background-color: var(--color-caste);
+    width: 50px;
+}
+
+.mates{
+    background-color: var(--color-mates);
+    width: 50px;
+}
+.valen{
+    background-color: var(--color-valen);
+    width: 50px;
+}
+
+.histo{
+    background-color: var( --color-histo);
+    width: 50px;
+}
+
+.ingles{
+    background-color: var(--color-ingles);
+    width: 50px;
+}
+
+.reli{
+background-color: var(--color-reli);
+width: 50px;
+}
+
+.iaee{
+    background-color: var(--color-iaee);
+    width: 50px;
+}
+
+.edfisica{
+    background-color: var(--color-edfisica);
+    width: 50px;
+}
+
+.artes{
+    background-color: var(--color-artes);
+    width: 50px;
+}
+
+.info{
+    background-color: var(--color-info);
+    width: 50px;
+}
+
+.pati-complementos{
+    background-color: var(--color-pati-complementos);
+    width: 50px;
+    color: white;
+}
+
+.tecno{
+background-color: var(--color-tecno);
+width: 50px;
+
+}
+
+.tutoria{
+    background-color: var(--color-tutoria);
+    width: 50px;
+
+}
+
+.horario{
+    background-color: var(--color-horario);
+    width: 50px;
+    color: white;
+}
+
+table{
+    text-align: center;
+    border: 10px black;
+    margin: 20px auto;
+}
+
+body{
+    text-align: center;
+    margin: 20px;
+}
